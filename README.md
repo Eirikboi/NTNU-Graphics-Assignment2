@@ -1,17 +1,12 @@
 # Assignment Repository Skeleton
 
 NOTE!
-NOTE!
-NOTE!
 Our task was to create a 3D game from scratch. I made the rendering engine and the two other group members made the game.  
 This rendering engine is VERY flawed. It doesn't draw things by instancing, there is no support for animation, a renderable
 object can only have 1 texture, no material customizability. To my defense I was only one person, the time limit was very slim
 because we had 2 other courses and we had to learn everything on our own (Our teacher had no programming knowledge.
 I have a lot of respect for him, but he shouldn't have held this course. NTNU requires every scientist to hold a course).
 of respect for him
-NOTE!
-NOTE!
-NOTE!
 
 Please modify the Readme file to your project specifics, including project name, involved group members (including mail contacts), as well as a version history.
 
